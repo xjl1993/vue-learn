@@ -5,6 +5,7 @@
     <!-- <communication></communication> -->
     <!-- <slot-example></slot-example> -->
     <form-example></form-example>
+    1
   </div>
 </template>
 
